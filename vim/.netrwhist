@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/jeremy/workspace/ncvfs/trunk/src/coding'
+let g:netrw_dirhist_2='/home/jeremy/workspace/ncvfs/trunk/lib/threadpool'
+let g:netrw_dirhist_3='/home/jeremy/workspace/ncvfs/trunk/lib/threadpool/threadpool'
+let g:netrw_dirhist_4='/home/jeremy/Documents/research/fast14codefs/camera/charts/harvard_merge'
+let g:netrw_dirhist_5='/home/jeremy/workspace/ssdraid/trunk/src/common/struct'
+let g:netrw_dirhist_6='/etc/fonts/conf.avail'
+let g:netrw_dirhist_7='/home/jeremy/Documents/research/strace_parse/strace.2g'
