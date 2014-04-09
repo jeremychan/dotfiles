@@ -48,8 +48,6 @@ setopt APPEND_HISTORY
 # simple http server
 alias start_server='python -m SimpleHTTPServer 8000'
 
-# start vim as server
-alias vim='vim --servername VIM'
 export TERM=xterm-256color
 
 # grep with line number
