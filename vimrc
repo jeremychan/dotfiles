@@ -14,6 +14,10 @@ map <F4> <Esc>:w<CR>:silent execute "!./% &>/dev/null &"<CR>:redraw!<CR>
 " turn off bell
 set vb
 
+" set smartcase
+set ignorecase
+set smartcase
+
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Maintainer: 
 "       Amir Salihefendic
